@@ -1,1 +1,1 @@
-# gamerino-dc
+# Gamerino Discord Website

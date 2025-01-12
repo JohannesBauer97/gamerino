@@ -1,0 +1,32 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background: conic-gradient(#424549, #36393e, #282b30, #1e2124, #282b30, #36393e, #424549);
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#particles-js {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+
+#discord-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background: none;
+    position: absolute;
+    z-index: 2;
+}
