@@ -1,1 +1,1 @@
-# Gamerino Discord Website
+# Gamerino Website [![pages-build-deployment](https://github.com/JohannesBauer97/gamerino-dc/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JohannesBauer97/gamerino-dc/actions/workflows/pages/pages-build-deployment)
